@@ -1,5 +1,5 @@
 # ansible_taining
-Objetctifs:
+objectifs:
 
   - installer et configurer un node manager Ansible 
 
